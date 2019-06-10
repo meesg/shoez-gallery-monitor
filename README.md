@@ -1,0 +1,1 @@
+shoez-gallery-monitor
