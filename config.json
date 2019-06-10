@@ -1,0 +1,12 @@
+{
+    "twilioSid": "[TWILIO SID]",
+    "twilioToken": "[TWILIO TOKEN]",
+    "twilioUrl": "[CALL HANDLER URL]",
+    "twilioTo": "[YOUR OWN NUMBER]",
+    "twilioFrom": "[TWILIO NUMBER]",
+    "discordHookId": "[DISCORD HOOK ID]",
+    "discordHookToken": "[DISCORD HOOK TOKEN]",
+    "url": "https://www.shoezgallery.com/en/32-latest",
+    "retryDelay": 10000,
+    "timeout": 15000
+}
