@@ -57,7 +57,7 @@ function checkForChange() {
                 discordHook.send($('span[itemprop="name"]').first().closest("div").html());
                 callMobilePhone();
 				
-				oldShoe = $('span[itemprop="name"]').first().text();
+		oldShoe = $('span[itemprop="name"]').first().text();
 				
                 log(chalk.green(`NEW SHOE FOUND | Name : ${currentShoe}.`));
             } 
